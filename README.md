@@ -1,2 +1,2 @@
 # Structure.image
-image of the life cycle
+image of the life cycle of devops
